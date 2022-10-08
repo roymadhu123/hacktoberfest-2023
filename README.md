@@ -12,6 +12,7 @@ Happy Hacktober! :octocat: This is a beginner friendly repository made specifica
 * C++ 🐛
 * Golang 🐀
 * Bash 🔨
+* Add your language here if u dont find it 🖌
 
 ## How❓
 1. Clone this repo.
