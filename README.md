@@ -25,7 +25,8 @@ Happy Hacktober! :octocat: This is a beginner friendly repository made specifica
 * Star this repo 🌟
 * _You can follow me too_ 🐱
 
-## Contributors 💖
-<a href="https://github.com/AcidOP/hacktoberfest-2022/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=AcidOP/hacktoberfest-2022" />
-</a>
+## Stargazers 🌟
+[![Stargazers repo roster for @AcidOP/hacktoberfest-2022](https://reporoster.com/stars/dark/AcidOP/hacktoberfest-2022)](https://github.com/AcidOP/hacktoberfest-2022/stargazers)
+
+## Forkers 🍴
+[![Forkers repo roster for @AcidOP/hacktoberfest-2022](https://reporoster.com/forks/dark/AcidOP/hacktoberfest-2022)](https://github.com/AcidOP/hacktoberfest-2022/network/members)
