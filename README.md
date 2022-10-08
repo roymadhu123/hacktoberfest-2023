@@ -24,3 +24,8 @@ Happy Hacktober! :octocat: This is a beginner friendly repository made specifica
 ## Additional ➕
 * Star this repo 🌟
 * _You can follow me too_ 🐱
+
+## Contributors 💖
+<a href="https://github.com/AcidOP/hacktoberfest-2022/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AcidOP/hacktoberfest-2022" />
+</a>
